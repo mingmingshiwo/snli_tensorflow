@@ -20,7 +20,7 @@ Implements MLP based model which achieve the same effect as lstm/gru with tensor
 ```
 python prepro.py
 ``` 
-- modes
+- model
 ```
 python snli.py
 ```
