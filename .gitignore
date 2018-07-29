@@ -1,0 +1,6 @@
+.idea/
+GoogleNews-vectors-negative300.bin.gz
+glove.840B.300d.txt
+back/
+vocab/
+__pycache__/
